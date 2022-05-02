@@ -130,9 +130,7 @@ at	before	behind	beside	between	by	during
 for	from	in	including	into	like	of
 off	on	over	through	to	towards	under
 underneath	upon	with	within	without	 	 
-anything	he	her	him	himself	I	it
-itself	me	nothing	one	she	something	them
-themselves	there	they	us	we	who	you
+anything nothing	something		
 add	agree	allow	appear	ask	be	become
 begin	believe	bring	build	buy	call	carry
 change	come	consider	continue	create	decide	describe
@@ -147,7 +145,4 @@ report	require	return	run	say	see	seem
 sell	send	set	show	sit	speak	spend
 stand	start	stop	suggest	take	talk	tell
 think	try	turn	understand	use	walk	want
-win	work	write	 	 	 	 
-MODAL VERBS
-can	could	have to	may	might	must	shall
-should	will	would'''.split()
+win	work	write'''.split()
